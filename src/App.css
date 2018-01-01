@@ -30,13 +30,3 @@
     transform: rotate(360deg);
   }
 }
-
-h1 {
-  font-size: 50px;
-  color: #ffffff;
-}
-
-/* like this it will be in global scope. */
-/* .aggregate {
-  color: #fff;
-} */
